@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_auth_transiteo,auth.transiteo,model_auth_transiteo,,1,1,1,1
+access_res_users_productitem,res.users.productitem,model_res_users_productitem,,1,1,1,1
