@@ -7,6 +7,7 @@
 
     'description': """
         Thanks to transiteo's artificial intelligence, you can now classify your products into HS Tariff Codes automatically. Don't waste any more time or money getting this information.
+        https://transiteo.gitbook.io/erp-plugins-guide/
     """,
 
     'author': "transiteo, cross border solutions",
