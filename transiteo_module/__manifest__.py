@@ -30,6 +30,7 @@
         'views/product_template_view.xml',
     ],
     'images': ['static/description/icon.png'],
+    'license': "OPL-1",
     # only loaded in demonstration mode
     'demo': [
         'demo/demo.xml',
