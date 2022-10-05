@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "transiteo - HS Tariff Codes",
+    'name': "HTS Code classification",
 
     'summary': """
         Automatic classification of your products into HS Tariff Codes in any country.""",
