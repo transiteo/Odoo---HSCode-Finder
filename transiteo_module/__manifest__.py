@@ -30,7 +30,7 @@
         'views/product_template_view.xml',
     ],
     # 'images': ['static/description/icon.png'],
-    'images': ['static/description/banner.png'],
+    'images': ['static/description/odoo_banner.png'],
     'license': "OPL-1",
     # only loaded in demonstration mode
     'demo': [
